@@ -17,7 +17,7 @@ In order to install python you can refer the following site and follow the insta
 
 ## How to Run
 
-In order to see the website you just need to run the entertainment_center.py file in the Movies folder either through the IDLE shell or through command prompt
+In order to see the website you just need to run the `entertainment_center.py` file in the Movies folder either through the IDLE shell or through command prompt
 
 ## Authors
 
